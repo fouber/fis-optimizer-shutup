@@ -14,3 +14,7 @@ npm install -g fis-optimizer-shutup
 fis.config.set('modules.optimizer.js', 'shutup, uglify-js');
 
 ```
+
+## step 3. use
+
+fis release ``-o``
